@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hiya! My name is Danis, programmer from Indonesia. I'm currently working on Bedrock Perfected project under the Kujira Hub team.
+Hiya! My name is Danis and I'm a programmer from Indonesia. I'm currently working on Bedrock Perfected project under the Kujira Hub team.
 
 
 ## 🌐 Socials:
