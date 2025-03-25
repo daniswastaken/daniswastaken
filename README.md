@@ -1,7 +1,8 @@
 ![](https://media.discordapp.net/attachments/1353119368799715530/1354090423789817897/banner-final.png?ex=67e4067a&is=67e2b4fa&hm=2f32bdf614343299bd01d3fc963f7b19806e0d3172d88e4133161c3c559a0fe2&=&format=webp&quality=lossless&width=1310&height=328)
 
 # 💫 About Me:
-Hiya! My name is Danis and I'm a programmer from Indonesia. I'm currently working on Bedrock Perfected project under the Kujira Hub team. Oh? You don't know what Bedrock Perfected is? Bedrock Perfected is an Minecraft Bedrock addon developed to overhaul your vanilla Minecraft experience into the next level! Yes, it's free and you can apply to join the team using Discord link below!
+Hiya! My name is Danis and I'm a programmer from Indonesia. I'm currently working on Bedrock Perfected project under the Kujira Hub team. 
+Oh? You don't know what Bedrock Perfected is? Bedrock Perfected is an Minecraft Bedrock addon developed to overhaul your vanilla Minecraft experience into the next level! Yes, it's free and you can apply to join the teams by using Discord link below!
 
 
 ## 🌐 Socials:
