@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 Hiya! My name is Danis and I'm a programmer from Indonesia. I'm currently working on Bedrock Perfected project under the Kujira Hub team. 
-Oh? You don't know what Bedrock Perfected is? Bedrock Perfected is an Minecraft Bedrock addon developed to overhaul your vanilla Minecraft experience into the next level! Yes, it's free and you can apply to join the teams by using Discord link below!
+
+# Oh? You don't know what Bedrock Perfected is? Bedrock Perfected is an Minecraft Bedrock addon developed to overhaul your vanilla Minecraft experience into the next level! Yes, it's free and you can apply to join the teams by using Discord link below!
 
 
 ## 🌐 Socials:
