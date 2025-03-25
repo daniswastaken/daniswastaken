@@ -1,3 +1,5 @@
+![](https://media.discordapp.net/attachments/1353119368799715530/1354082678219214889/banner.png?ex=67e3ff44&is=67e2adc4&hm=a754a2b5224975026944d97bd07be0e6bc8ca98ce2b3dc4f9ea2f8ed2e186e35&=&format=webp&quality=lossless&width=1310&height=328)
+
 # 💫 About Me:
 Hiya! My name is Danis and I'm a programmer from Indonesia. I'm currently working on Bedrock Perfected project under the Kujira Hub team.
 
