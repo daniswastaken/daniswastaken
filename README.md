@@ -3,7 +3,7 @@
 # 💫 About Me:
 Greetings! My name is Danis and I'm a programmer from Indonesia. I'm currently working on Framework project. 
 
-Oh? You don't know what Framework is? Framework is an modularized Minecraft Bedrock addon developed to overhaul your vanilla Minecraft experience into the next level!
+Oh? You don't know what Framework is? Framework is modularized Minecraft Bedrock addon developed to overhaul your vanilla Minecraft experience into the next level! Yes, you can choose what to add and what not to add, it's 100% compatible with other addon under Framework project.
 
 
 ## 🌐 Socials:
