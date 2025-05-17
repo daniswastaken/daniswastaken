@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1353119368799715530/1354090423789817897/banner-final.png?ex=67e4067a&is=67e2b4fa&hm=2f32bdf614343299bd01d3fc963f7b19806e0d3172d88e4133161c3c559a0fe2&=&format=webp&quality=lossless&width=1310&height=328)
+![](https://media.discordapp.net/attachments/1353119368799715530/1354090423789817897/banner-final.png?ex=68293d3a&is=6827ebba&hm=0c2ab9cfd3ff5bb49bbd50a8b95bb7a9113b4038e2493faa123130329f020ca4&=&format=webp&quality=lossless&width=1318&height=330)
 
 # 💫 About Me:
 Greetings! My name is Danis and I'm a programmer from Indonesia. I'm currently working on Framework project. 
