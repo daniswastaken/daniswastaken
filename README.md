@@ -1,9 +1,7 @@
 ![](https://media.discordapp.net/attachments/1353119368799715530/1354090423789817897/banner-final.png?ex=68293d3a&is=6827ebba&hm=0c2ab9cfd3ff5bb49bbd50a8b95bb7a9113b4038e2493faa123130329f020ca4&=&format=webp&quality=lossless&width=1318&height=330)
 
 # 💫 About Me:
-Greetings! My name is Danis and I'm a programmer from Indonesia. I'm currently working on Framework project. 
-
-Oh? You don't know what Framework is? Framework is modularized Minecraft Bedrock addon developed to overhaul your vanilla Minecraft experience into the next level! Yes, you can choose what to add and what not to add, it's 100% compatible with other addon under Framework project.
+Greetings! My name is Danis and I'm a programmer from Indonesia.
 
 
 ## 🌐 Socials:
