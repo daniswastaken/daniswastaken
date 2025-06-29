@@ -1,7 +1,8 @@
 ![](https://media.discordapp.net/attachments/1353119368799715530/1354090423789817897/banner-final.png?ex=68293d3a&is=6827ebba&hm=0c2ab9cfd3ff5bb49bbd50a8b95bb7a9113b4038e2493faa123130329f020ca4&=&format=webp&quality=lossless&width=1318&height=330)
 
 # 💫 About Me:
-Greetings! My name is Danis and I'm a programmer from Indonesia.
+Greetings! My name is Danis and I'm a passionate programmer with a love for coding and technology. I enjoy working on various projects and learning new skills in the tech world.
+I specialize in programming, especially in backend development. Check out my website at [](daniswastaken.my.id).
 
 
 ## 🌐 Socials:
