@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Greetings! My name is Danis and I'm a passionate programmer with a love for coding and technology. I enjoy working on various projects and learning new skills in the tech world.
-I specialize in programming, especially in backend development. Check out my website at [daniswastaken.my.id](daniswastaken.my.id)!.
+I specialize in programming, especially in backend development. Check out my website at [daniswastaken.my.id](daniswastaken.my.id).
 
 
 ## 🌐 Socials:
