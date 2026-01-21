@@ -1,1 +1,1 @@
-# README 404
+"Perfection won't exist without iteration." - Handaru Daniswara
