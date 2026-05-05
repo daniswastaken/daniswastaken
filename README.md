@@ -1,9 +1,9 @@
 <p align="center">
   <samp>
-    <a href="handaru.dev">about</a> . 
-    <a href="handaru.dev/projects">projects</a> . 
-    <a href="handaru.dev/blog">blog</a> . 
-    <a href="handaru.dev/papers">papers</a> . 
+    <a href="https://handaru.dev">about</a> . 
+    <a href="https://handaru.dev/projects">projects</a> . 
+    <a href="https://handaru.dev/blog">blog</a> . 
+    <a href="https://handaru.dev/papers">papers</a> . 
     <a href="mailto:hi@handaru.dev">email</a> . 
     <a href="https://discord.com/users/1114776568854749296">discord</a>
   </samp>
